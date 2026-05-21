@@ -8,8 +8,8 @@ This repository contains the full report, MATLAB scripts, and SIMULINK models de
 ##  Report Structure
 
 The report is divided into six sections:
-| Parameter | Symbol | Value | Unit |
-|---|---|---|---|
+| S.No. | Topic |
+|---|---|
 | 1 | Introduction to Electric Vehicles
 | 2 | Fundamentals of Electric Vehicles 
 | 3 | Modelling and Simulation of a DC Motor 
